@@ -1,0 +1,164 @@
+ {/* <Box>
+          <Box className={classes.box2}>
+            <img src={shampoo} alt="" />
+          </Box>
+          <Typography className={classes.anti}>
+            Anti-Dandruff Shampoo
+          </Typography>
+          <Box className={classes.rateline}>
+            <Box className={classes.rate}>
+              <Stack spacing={1}>
+                <Rating
+                  name="half-rating"
+                  defaultValue={4.5}
+                  precision={0.5}
+                  style={{ color: "#3D857E" }}
+                />
+              </Stack>
+              <Typography className={classes.jesse2}>(487)</Typography>
+            </Box>
+          </Box>
+
+          <Typography className={classes.greenhead}>
+            To refresh & clean skin
+          </Typography>
+          <Typography className={classes.greenhead}>750 ml</Typography>
+          <Typography className={classes.rupee}>₹899</Typography>
+          <Button className={classes.ggbtn}>Add to Bag</Button>
+        </Box> */}
+        {/* <Box>
+          <Box className={classes.box2}>
+            <img src={shampoo2} alt="" />
+          </Box>
+          <Typography className={classes.anti}>
+            Fuji Green Tea Shower Gel
+          </Typography>
+          <Box className={classes.rateline}>
+            <Box className={classes.rate}>
+              <Stack spacing={1}>
+                <Rating
+                  name="half-rating"
+                  defaultValue={4.5}
+                  precision={0.5}
+                  style={{ color: "#3D857E" }}
+                />
+              </Stack>
+              <Typography className={classes.jesse2}>(487)</Typography>
+            </Box>
+          </Box>
+
+          <Typography className={classes.greenhead}>
+            To refresh & clean skin
+          </Typography>
+          <Typography className={classes.greenhead}>750 ml</Typography>
+          <Typography className={classes.rupee}>₹899</Typography>
+          <Button className={classes.ggbtn}>Add to Bag</Button>
+        </Box>
+        <Box>
+          <Box className={classes.box2}>
+            <img src={shampoo3} alt="" />
+          </Box>
+          <Typography className={classes.anti}>Coconut Shower Cream</Typography>
+          <Box className={classes.rateline}>
+            <Box className={classes.rate}>
+              <Stack spacing={1}>
+                <Rating
+                  name="half-rating"
+                  defaultValue={4.5}
+                  precision={0.5}
+                  style={{ color: "#3D857E" }}
+                />
+              </Stack>
+              <Typography className={classes.jesse2}>(487)</Typography>
+            </Box>
+          </Box>
+
+          <Typography className={classes.greenhead}>
+            To refresh & clean skin
+          </Typography>
+          <Typography className={classes.greenhead}>750 ml</Typography>
+          <Typography className={classes.rupee}>₹899</Typography>
+          <Button className={classes.ggbtn}>Add to Bag</Button>
+        </Box>
+        <Box>
+          <Box className={classes.box2}>
+            <img src={shampoo4} alt="" />
+          </Box>
+          <Typography className={classes.anti}>
+            Pink Grape Fruit Shower Gel
+          </Typography>
+          <Box className={classes.rateline}>
+            <Box className={classes.rate}>
+              <Stack spacing={1}>
+                <Rating
+                  name="half-rating"
+                  defaultValue={4.5}
+                  precision={0.5}
+                  style={{ color: "#3D857E" }}
+                />
+              </Stack>
+              <Typography className={classes.jesse2}>(487)</Typography>
+            </Box>
+          </Box>
+
+          <Typography className={classes.greenhead}>
+            To refresh & clean skin
+          </Typography>
+          <Typography className={classes.greenhead}>750 ml</Typography>
+          <Typography className={classes.rupee}>₹899</Typography>
+          <Button className={classes.ggbtn}>Add to Bag</Button>
+        </Box>
+        <Box>
+          <Box className={classes.box2}>
+            <img src={shampoo5} alt="" />
+          </Box>
+          <Typography className={classes.anti}>
+            Fuji Green Tea Shower Gel
+          </Typography>
+          <Box className={classes.rateline}>
+            <Box className={classes.rate}>
+              <Stack spacing={1}>
+                <Rating
+                  name="half-rating"
+                  defaultValue={4.5}
+                  precision={0.5}
+                  style={{ color: "#3D857E" }}
+                />
+              </Stack>
+              <Typography className={classes.jesse2}>(487)</Typography>
+            </Box>
+          </Box>
+
+          <Typography className={classes.greenhead}>
+            To refresh & clean skin
+          </Typography>
+          <Typography className={classes.greenhead}>750 ml</Typography>
+          <Typography className={classes.rupee}>₹899</Typography>
+          <Button className={classes.ggbtn}>Add to Bag</Button>
+        </Box>
+        <Box>
+          <Box className={classes.box2}>
+            <img src={shampoo6} alt="" />
+          </Box>
+          <Typography className={classes.anti}>Coconut Shower Cream</Typography>
+          <Box className={classes.rateline}>
+            <Box className={classes.rate}>
+              <Stack spacing={1}>
+                <Rating
+                  name="half-rating"
+                  defaultValue={4.5}
+                  precision={0.5}
+                  style={{ color: "#3D857E" }}
+                />
+              </Stack>
+              <Typography className={classes.jesse2}>(487)</Typography>
+            </Box>
+          </Box>
+
+          <Typography className={classes.greenhead}>
+            To refresh & clean skin
+          </Typography>
+          <Typography className={classes.greenhead}>750 ml</Typography>
+          <Typography className={classes.rupee}>₹899</Typography>
+          <Button className={classes.ggbtn}>Add to Bag</Button>
+        </Box> */}
